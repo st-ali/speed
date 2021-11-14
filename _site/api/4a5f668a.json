@@ -1,0 +1,56 @@
+{
+  "url": "https://sensorylab.com.au/cart",
+  "requestedUrl": "https://sensorylab.com.au/cart",
+  "timestamp": 1636882639922,
+  "ranks": {
+    "hundos": 9,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.86,
+    "bestPractices": 0.67,
+    "seo": 0.79,
+    "total": 274
+  },
+  "firstContentfulPaint": 2355.701,
+  "speedIndex": 8219.531436467261,
+  "largestContentfulPaint": 4566.5070000000005,
+  "totalBlockingTime": 629,
+  "cumulativeLayoutShift": 0.40614862673150165,
+  "timeToInteractive": 10700.2175,
+  "maxPotentialFirstInputDelay": 226,
+  "timeToFirstByte": 257.184,
+  "weight": {
+    "summary": "73 requests • 1,267 KiB",
+    "total": 1297271,
+    "image": 176568,
+    "imageCount": 8,
+    "script": 805293,
+    "scriptCount": 36,
+    "document": 24157,
+    "font": 103841,
+    "fontCount": 3,
+    "stylesheet": 56304,
+    "stylesheetCount": 4,
+    "thirdParty": 1272485,
+    "thirdPartyCount": 67
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 559,
+    "violations": 10
+  },
+  "previousRanks": {
+    "hundos": 6,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 6
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://sensorylab.com.au/products/santo-espresso-blend",
+  "requestedUrl": "https://sensorylab.com.au/products/santo-espresso-blend",
+  "timestamp": 1636882274156,
+  "ranks": {
+    "hundos": 10,
+    "performance": 9,
+    "accessibility": 10,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 268
+  },
+  "firstContentfulPaint": 2263.548,
+  "speedIndex": 9249.556725787275,
+  "largestContentfulPaint": 7004.468999999999,
+  "totalBlockingTime": 896,
+  "cumulativeLayoutShift": 0.40598797853153795,
+  "timeToInteractive": 11915.7025,
+  "maxPotentialFirstInputDelay": 300,
+  "timeToFirstByte": 264.13300000000004,
+  "weight": {
+    "summary": "87 requests • 1,425 KiB",
+    "total": 1459579,
+    "image": 237756,
+    "imageCount": 14,
+    "script": 887192,
+    "scriptCount": 40,
+    "document": 34962,
+    "font": 103812,
+    "fontCount": 3,
+    "stylesheet": 58200,
+    "stylesheetCount": 5,
+    "thirdParty": 1419044,
+    "thirdPartyCount": 84
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 937,
+    "violations": 19
+  }
+}

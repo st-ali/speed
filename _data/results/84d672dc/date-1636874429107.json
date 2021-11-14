@@ -1,0 +1,50 @@
+{
+  "url": "https://clementcoffee.com/products/decaf-guatemala",
+  "requestedUrl": "https://clementcoffee.com/products/decaf-guatemala",
+  "timestamp": 1636874699682,
+  "ranks": {
+    "hundos": 6,
+    "performance": 7,
+    "accessibility": 9,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.63,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 347
+  },
+  "firstContentfulPaint": 2087.729,
+  "speedIndex": 4431.109199260569,
+  "largestContentfulPaint": 3348.729,
+  "totalBlockingTime": 606.5,
+  "cumulativeLayoutShift": 0.00837575446234809,
+  "timeToInteractive": 10988.144499999999,
+  "maxPotentialFirstInputDelay": 352,
+  "timeToFirstByte": 333.73799999999994,
+  "weight": {
+    "summary": "93 requests • 1,153 KiB",
+    "total": 1180994,
+    "image": 45872,
+    "imageCount": 19,
+    "script": 561362,
+    "scriptCount": 36,
+    "document": 36670,
+    "font": 38877,
+    "fontCount": 2,
+    "stylesheet": 21430,
+    "stylesheetCount": 1,
+    "thirdParty": 1147447,
+    "thirdPartyCount": 89
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 727,
+    "violations": 9
+  }
+}

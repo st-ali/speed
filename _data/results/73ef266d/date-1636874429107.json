@@ -1,0 +1,49 @@
+{
+  "url": "https://stali.com.au/collections/coffee/products/st-ali-orthodox",
+  "requestedUrl": "https://stali.com.au/collections/coffee/products/st-ali-orthodox",
+  "timestamp": 1636876381612,
+  "ranks": {
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 9,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 278
+  },
+  "firstContentfulPaint": 2660.687,
+  "speedIndex": 8904.992849657796,
+  "largestContentfulPaint": 5031.625000000001,
+  "totalBlockingTime": 2362.626000000003,
+  "cumulativeLayoutShift": 0.025560634189181856,
+  "timeToInteractive": 22201.051499999998,
+  "maxPotentialFirstInputDelay": 432,
+  "timeToFirstByte": 527.598,
+  "weight": {
+    "summary": "173 requests • 2,717 KiB",
+    "total": 2781978,
+    "image": 142405,
+    "imageCount": 37,
+    "script": 1988683,
+    "scriptCount": 74,
+    "document": 57824,
+    "font": 38877,
+    "fontCount": 2,
+    "stylesheet": 52264,
+    "stylesheetCount": 6,
+    "thirdParty": 2721737,
+    "thirdPartyCount": 166
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

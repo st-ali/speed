@@ -1,0 +1,50 @@
+{
+  "url": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
+  "requestedUrl": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
+  "timestamp": 1636876530893,
+  "ranks": {
+    "hundos": 6,
+    "performance": 9,
+    "accessibility": 5,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.32,
+    "accessibility": 0.85,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 290
+  },
+  "firstContentfulPaint": 2473.2709999999997,
+  "speedIndex": 8105.6508213644665,
+  "largestContentfulPaint": 4543.687000000001,
+  "totalBlockingTime": 1525.5000000000018,
+  "cumulativeLayoutShift": 0.026416015625,
+  "timeToInteractive": 17151.6415,
+  "maxPotentialFirstInputDelay": 396,
+  "timeToFirstByte": 265.85900000000004,
+  "weight": {
+    "summary": "111 requests • 2,024 KiB",
+    "total": 2072388,
+    "image": 153177,
+    "imageCount": 21,
+    "script": 1632297,
+    "scriptCount": 53,
+    "document": 49506,
+    "font": 38878,
+    "fontCount": 2,
+    "stylesheet": 52157,
+    "stylesheetCount": 6,
+    "thirdParty": 2018584,
+    "thirdPartyCount": 106
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1112,
+    "violations": 16
+  }
+}

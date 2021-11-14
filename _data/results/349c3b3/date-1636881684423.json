@@ -1,0 +1,50 @@
+{
+  "url": "https://clementcoffee.com/products/pony-blend",
+  "requestedUrl": "https://clementcoffee.com/products/pony-blend",
+  "timestamp": 1636881845408,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 7,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 326
+  },
+  "firstContentfulPaint": 2097.224,
+  "speedIndex": 3265.889271462994,
+  "largestContentfulPaint": 5725.664,
+  "totalBlockingTime": 888.9999999999986,
+  "cumulativeLayoutShift": 0.4338433706495497,
+  "timeToInteractive": 10937.8475,
+  "maxPotentialFirstInputDelay": 424,
+  "timeToFirstByte": 252.26099999999997,
+  "weight": {
+    "summary": "91 requests • 1,149 KiB",
+    "total": 1177082,
+    "image": 42539,
+    "imageCount": 18,
+    "script": 560698,
+    "scriptCount": 36,
+    "document": 37085,
+    "font": 38877,
+    "fontCount": 2,
+    "stylesheet": 21431,
+    "stylesheetCount": 1,
+    "thirdParty": 1142668,
+    "thirdPartyCount": 87
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 789,
+    "violations": 9
+  }
+}

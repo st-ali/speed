@@ -1,0 +1,50 @@
+{
+  "url": "https://sensorylab.com.au/collections/coffee-beans",
+  "requestedUrl": "https://sensorylab.com.au/collections/coffee-beans",
+  "timestamp": 1636874800768,
+  "ranks": {
+    "hundos": 3,
+    "performance": 5,
+    "accessibility": 6,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 288
+  },
+  "firstContentfulPaint": 2577.379,
+  "speedIndex": 7921.432265572403,
+  "largestContentfulPaint": 13407.865000000002,
+  "totalBlockingTime": 474.5,
+  "cumulativeLayoutShift": 0.4066435472501648,
+  "timeToInteractive": 11077.183999999997,
+  "maxPotentialFirstInputDelay": 161,
+  "timeToFirstByte": 580.1070000000001,
+  "weight": {
+    "summary": "71 requests • 1,303 KiB",
+    "total": 1334070,
+    "image": 211770,
+    "imageCount": 12,
+    "script": 803410,
+    "scriptCount": 35,
+    "document": 28291,
+    "font": 103812,
+    "fontCount": 3,
+    "stylesheet": 56303,
+    "stylesheetCount": 4,
+    "thirdParty": 1305779,
+    "thirdPartyCount": 70
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 743,
+    "violations": 19
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "url": "https://stali.com.au/pages/contact",
+  "requestedUrl": "https://stali.com.au/pages/contact",
+  "timestamp": 1636882822961,
+  "ranks": {
+    "hundos": 2,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.47,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 301
+  },
+  "firstContentfulPaint": 2232.288,
+  "speedIndex": 7295.402346601842,
+  "largestContentfulPaint": 2909.8815,
+  "totalBlockingTime": 1170.000000000001,
+  "cumulativeLayoutShift": 0.026416015625,
+  "timeToInteractive": 16795.703499999992,
+  "maxPotentialFirstInputDelay": 451.0000000000009,
+  "timeToFirstByte": 260.23199999999997,
+  "weight": {
+    "summary": "93 requests • 1,853 KiB",
+    "total": 1897671,
+    "image": 52906,
+    "imageCount": 14,
+    "script": 1575936,
+    "scriptCount": 50,
+    "document": 39003,
+    "font": 38875,
+    "fontCount": 2,
+    "stylesheet": 50362,
+    "stylesheetCount": 5,
+    "thirdParty": 1859826,
+    "thirdPartyCount": 91
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 749,
+    "violations": 13
+  },
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 3
+  }
+}

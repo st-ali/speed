@@ -1,0 +1,50 @@
+{
+  "url": "https://sensorylab.com.au/collections/espresso-blends",
+  "requestedUrl": "https://sensorylab.com.au/collections/espresso-blends",
+  "timestamp": 1636874947439,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 5,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.86,
+    "total": 299
+  },
+  "firstContentfulPaint": 2292.53,
+  "speedIndex": 6584.604566160932,
+  "largestContentfulPaint": 4011.9620000000004,
+  "totalBlockingTime": 430.5,
+  "cumulativeLayoutShift": 0.40696635540988707,
+  "timeToInteractive": 10660.727,
+  "maxPotentialFirstInputDelay": 191,
+  "timeToFirstByte": 267.759,
+  "weight": {
+    "summary": "71 requests • 1,302 KiB",
+    "total": 1333318,
+    "image": 212178,
+    "imageCount": 12,
+    "script": 803336,
+    "scriptCount": 35,
+    "document": 27053,
+    "font": 103934,
+    "fontCount": 3,
+    "stylesheet": 56281,
+    "stylesheetCount": 4,
+    "thirdParty": 1306265,
+    "thirdPartyCount": 70
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 671,
+    "violations": 16
+  }
+}

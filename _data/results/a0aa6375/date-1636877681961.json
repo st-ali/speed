@@ -1,0 +1,50 @@
+{
+  "url": "https://www.salvatoremalatesta.com.au/wife-joanne",
+  "requestedUrl": "https://www.salvatoremalatesta.com.au/wife-joanne",
+  "timestamp": 1636877736639,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.95,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.97,
+    "total": 366
+  },
+  "firstContentfulPaint": 1604.07,
+  "speedIndex": 1604.07,
+  "largestContentfulPaint": 2160.0699999999997,
+  "totalBlockingTime": 55,
+  "cumulativeLayoutShift": 0.35836270162794326,
+  "timeToInteractive": 2584.2164999999995,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 33.595999999999975,
+  "weight": {
+    "summary": "19 requests • 554 KiB",
+    "total": 566792,
+    "image": 484021,
+    "imageCount": 10,
+    "script": 43359,
+    "scriptCount": 6,
+    "document": 2996,
+    "font": 17491,
+    "fontCount": 1,
+    "stylesheet": 18925,
+    "stylesheetCount": 1,
+    "thirdParty": 563796,
+    "thirdPartyCount": 18
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 94,
+    "violations": 7
+  }
+}

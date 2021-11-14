@@ -1,0 +1,50 @@
+{
+  "url": "https://sensorylab.com.au/collections/coffee-beans/products/steadfast-espresso-blend",
+  "requestedUrl": "https://sensorylab.com.au/collections/coffee-beans/products/steadfast-espresso-blend",
+  "timestamp": 1636876150195,
+  "ranks": {
+    "hundos": 8,
+    "performance": 9,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.3,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 277
+  },
+  "firstContentfulPaint": 2268.496,
+  "speedIndex": 8754.623633666146,
+  "largestContentfulPaint": 5076.139999999999,
+  "totalBlockingTime": 1089,
+  "cumulativeLayoutShift": 0.40598797853153795,
+  "timeToInteractive": 11772.790500000003,
+  "maxPotentialFirstInputDelay": 276,
+  "timeToFirstByte": 262.101,
+  "weight": {
+    "summary": "83 requests • 1,339 KiB",
+    "total": 1371605,
+    "image": 207377,
+    "imageCount": 12,
+    "script": 833383,
+    "scriptCount": 39,
+    "document": 32892,
+    "font": 103813,
+    "fontCount": 3,
+    "stylesheet": 56275,
+    "stylesheetCount": 4,
+    "thirdParty": 1333042,
+    "thirdPartyCount": 80
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "axe": {
+    "passes": 936,
+    "violations": 26
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "url": "https://sensorylab.com.au/pages/locations",
+  "requestedUrl": "https://sensorylab.com.au/pages/locations",
+  "timestamp": 1636882603456,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 4,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.57,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 308
+  },
+  "firstContentfulPaint": 2289.345,
+  "speedIndex": 5895.453773809011,
+  "largestContentfulPaint": 3503.9129999999996,
+  "totalBlockingTime": 457,
+  "cumulativeLayoutShift": 0.772042628162437,
+  "timeToInteractive": 11135.5955,
+  "maxPotentialFirstInputDelay": 173,
+  "timeToFirstByte": 261.019,
+  "weight": {
+    "summary": "70 requests • 1,356 KiB",
+    "total": 1388878,
+    "image": 270848,
+    "imageCount": 11,
+    "script": 802799,
+    "scriptCount": 35,
+    "document": 24546,
+    "font": 103837,
+    "fontCount": 3,
+    "stylesheet": 56323,
+    "stylesheetCount": 4,
+    "thirdParty": 1364332,
+    "thirdPartyCount": 69
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 559,
+    "violations": 14
+  },
+  "previousRanks": {
+    "hundos": 4,
+    "performance": 6,
+    "accessibility": 4,
+    "cumulative": 4
+  }
+}

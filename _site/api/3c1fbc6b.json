@@ -1,0 +1,56 @@
+{
+  "url": "https://clementcoffee.com/products/beaufort",
+  "requestedUrl": "https://clementcoffee.com/products/beaufort",
+  "timestamp": 1636881730517,
+  "ranks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 339
+  },
+  "firstContentfulPaint": 2145.296,
+  "speedIndex": 3812.84111475021,
+  "largestContentfulPaint": 3481.7960000000003,
+  "totalBlockingTime": 1058.5000000000002,
+  "cumulativeLayoutShift": 0.008001132753160264,
+  "timeToInteractive": 11058.139499999997,
+  "maxPotentialFirstInputDelay": 367,
+  "timeToFirstByte": 263.44100000000003,
+  "weight": {
+    "summary": "92 requests • 1,156 KiB",
+    "total": 1183428,
+    "image": 48105,
+    "imageCount": 18,
+    "script": 561335,
+    "scriptCount": 36,
+    "document": 37088,
+    "font": 38875,
+    "fontCount": 2,
+    "stylesheet": 20952,
+    "stylesheetCount": 1,
+    "thirdParty": 1149215,
+    "thirdPartyCount": 88
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 778,
+    "violations": 9
+  },
+  "previousRanks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 8
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://stali.com.au/pages/st-ali-south-melbourne",
+  "requestedUrl": "https://stali.com.au/pages/st-ali-south-melbourne",
+  "timestamp": 1636876560264,
+  "ranks": {
+    "hundos": 5,
+    "performance": 4,
+    "accessibility": 11,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.82,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 297
+  },
+  "firstContentfulPaint": 2194.421,
+  "speedIndex": 9862.708462545135,
+  "largestContentfulPaint": 2843.491,
+  "totalBlockingTime": 1203.9999999999982,
+  "cumulativeLayoutShift": 0.20158024258083768,
+  "timeToInteractive": 19543.4525,
+  "maxPotentialFirstInputDelay": 329,
+  "timeToFirstByte": 386.053,
+  "weight": {
+    "summary": "139 requests • 2,352 KiB",
+    "total": 2408458,
+    "image": 70249,
+    "imageCount": 22,
+    "script": 1973967,
+    "scriptCount": 71,
+    "document": 81385,
+    "font": 67793,
+    "fontCount": 4,
+    "stylesheet": 72485,
+    "stylesheetCount": 10,
+    "thirdParty": 2369918,
+    "thirdPartyCount": 137
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1187,
+    "violations": 34
+  }
+}

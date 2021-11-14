@@ -1,0 +1,50 @@
+{
+  "url": "https://sensorylab.com.au/collections/coffee-beans/products/stellar-espresso-blend",
+  "requestedUrl": "https://sensorylab.com.au/collections/coffee-beans/products/stellar-espresso-blend",
+  "timestamp": 1636876165064,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 11,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 268
+  },
+  "firstContentfulPaint": 2216.2780000000002,
+  "speedIndex": 9286.521517937173,
+  "largestContentfulPaint": 6291.8185,
+  "totalBlockingTime": 964.5000000000009,
+  "cumulativeLayoutShift": 0.40598282077684644,
+  "timeToInteractive": 11785.1345,
+  "maxPotentialFirstInputDelay": 305,
+  "timeToFirstByte": 261.46400000000006,
+  "weight": {
+    "summary": "87 requests • 1,424 KiB",
+    "total": 1458671,
+    "image": 236787,
+    "imageCount": 14,
+    "script": 886639,
+    "scriptCount": 40,
+    "document": 35152,
+    "font": 103812,
+    "fontCount": 3,
+    "stylesheet": 58206,
+    "stylesheetCount": 5,
+    "thirdParty": 1417658,
+    "thirdPartyCount": 84
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1029,
+    "violations": 27
+  }
+}

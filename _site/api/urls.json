@@ -35,10 +35,10 @@
     ],
     "vertical": "clement"
   },
-  "https://clementcoffee.com/pages/wholesale": {
-    "requestedUrl": "https://clementcoffee.com/pages/wholesale",
-    "url": "https://clementcoffee.com/pages/wholesale",
-    "hash": "29fb88cd",
+  "https://clementcoffee.com/cart": {
+    "requestedUrl": "https://clementcoffee.com/cart",
+    "url": "https://clementcoffee.com/cart",
+    "hash": "29e15064",
     "categories": [
       "clement",
       "sal",
@@ -59,10 +59,10 @@
     ],
     "vertical": "clement"
   },
-  "https://clementcoffee.com/collections/blends": {
-    "requestedUrl": "https://clementcoffee.com/collections/blends",
-    "url": "https://clementcoffee.com/collections/blends",
-    "hash": "3a8ba1f8",
+  "https://clementcoffee.com/pages/wholesale": {
+    "requestedUrl": "https://clementcoffee.com/pages/wholesale",
+    "url": "https://clementcoffee.com/pages/wholesale",
+    "hash": "29fb88cd",
     "categories": [
       "clement",
       "sal",
@@ -71,10 +71,10 @@
     ],
     "vertical": "clement"
   },
-  "https://clementcoffee.com/cart": {
-    "requestedUrl": "https://clementcoffee.com/cart",
-    "url": "https://clementcoffee.com/cart",
-    "hash": "29e15064",
+  "https://clementcoffee.com/collections/blends": {
+    "requestedUrl": "https://clementcoffee.com/collections/blends",
+    "url": "https://clementcoffee.com/collections/blends",
+    "hash": "3a8ba1f8",
     "categories": [
       "clement",
       "sal",
@@ -95,10 +95,10 @@
     ],
     "vertical": "clement"
   },
-  "https://sensorylab.com.au/cart": {
-    "requestedUrl": "https://sensorylab.com.au/cart",
-    "url": "https://sensorylab.com.au/cart",
-    "hash": "4a5f668a",
+  "https://sensorylab.com.au/pages/contact": {
+    "requestedUrl": "https://sensorylab.com.au/pages/contact",
+    "url": "https://sensorylab.com.au/pages/contact",
+    "hash": "3f0e8a81",
     "categories": [
       "clement",
       "sal",
@@ -107,10 +107,10 @@
     ],
     "vertical": "clement"
   },
-  "https://sensorylab.com.au/pages/contact": {
-    "requestedUrl": "https://sensorylab.com.au/pages/contact",
-    "url": "https://sensorylab.com.au/pages/contact",
-    "hash": "3f0e8a81",
+  "https://sensorylab.com.au/cart": {
+    "requestedUrl": "https://sensorylab.com.au/cart",
+    "url": "https://sensorylab.com.au/cart",
+    "hash": "4a5f668a",
     "categories": [
       "clement",
       "sal",
@@ -441,10 +441,10 @@
     ],
     "vertical": "clement"
   },
-  "https://clementcoffee.com/pages/contact": {
-    "requestedUrl": "https://clementcoffee.com/pages/contact",
-    "url": "https://clementcoffee.com/pages/contact",
-    "hash": "fed8312f",
+  "https://stali.com.au/collections/coffee/products/italo-disco": {
+    "requestedUrl": "https://stali.com.au/collections/coffee/products/italo-disco",
+    "url": "https://stali.com.au/collections/coffee/products/italo-disco",
+    "hash": "fc69a33",
     "categories": [
       "clement",
       "sal",
@@ -453,10 +453,10 @@
     ],
     "vertical": "clement"
   },
-  "https://stali.com.au/collections/coffee/products/italo-disco": {
-    "requestedUrl": "https://stali.com.au/collections/coffee/products/italo-disco",
-    "url": "https://stali.com.au/collections/coffee/products/italo-disco",
-    "hash": "fc69a33",
+  "https://clementcoffee.com/pages/contact": {
+    "requestedUrl": "https://clementcoffee.com/pages/contact",
+    "url": "https://clementcoffee.com/pages/contact",
+    "hash": "fed8312f",
     "categories": [
       "clement",
       "sal",

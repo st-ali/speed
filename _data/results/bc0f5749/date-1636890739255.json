@@ -1,0 +1,51 @@
+{
+  "url": "https://stali.com.au/cart",
+  "requestedUrl": "https://stali.com.au/cart",
+  "timestamp": 1636890957045,
+  "ranks": {
+    "hundos": 5,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.52,
+    "accessibility": 0.86,
+    "bestPractices": 0.73,
+    "seo": 0.79,
+    "total": 290
+  },
+  "firstContentfulPaint": 2314.301,
+  "firstMeaningfulPaint": 2314.301,
+  "speedIndex": 7416.393502999041,
+  "largestContentfulPaint": 2826.353,
+  "totalBlockingTime": 1240.000000000001,
+  "cumulativeLayoutShift": 0.0256591796875,
+  "timeToInteractive": 18633.7295,
+  "maxPotentialFirstInputDelay": 312,
+  "timeToFirstByte": 462.07500000000005,
+  "weight": {
+    "summary": "114 requests • 1,975 KiB",
+    "total": 2021960,
+    "image": 53349,
+    "imageCount": 15,
+    "script": 1691778,
+    "scriptCount": 58,
+    "document": 39209,
+    "font": 38875,
+    "fontCount": 2,
+    "stylesheet": 50361,
+    "stylesheetCount": 5,
+    "thirdParty": 1976473,
+    "thirdPartyCount": 102
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 719,
+    "violations": 13
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://stali.com.au/collections/coffee/products/italo-disco",
+  "requestedUrl": "https://stali.com.au/collections/coffee/products/italo-disco",
+  "timestamp": 1636891063405,
+  "ranks": {
+    "hundos": 9,
+    "performance": 7,
+    "accessibility": 5,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.29,
+    "accessibility": 0.84,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 279
+  },
+  "firstContentfulPaint": 2726.3619999999996,
+  "firstMeaningfulPaint": 2969.3169999999996,
+  "speedIndex": 8770.237229268256,
+  "largestContentfulPaint": 5052.834,
+  "totalBlockingTime": 5001.1939999999995,
+  "cumulativeLayoutShift": 0.007787386178970336,
+  "timeToInteractive": 25967.323499999995,
+  "maxPotentialFirstInputDelay": 818.0000000000009,
+  "timeToFirstByte": 365.19999999999993,
+  "weight": {
+    "summary": "172 requests • 2,698 KiB",
+    "total": 2762253,
+    "image": 119023,
+    "imageCount": 37,
+    "script": 1988849,
+    "scriptCount": 74,
+    "document": 58217,
+    "font": 38876,
+    "fontCount": 2,
+    "stylesheet": 52286,
+    "stylesheetCount": 6,
+    "thirdParty": 2698514,
+    "thirdPartyCount": 165
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

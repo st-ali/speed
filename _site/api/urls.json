@@ -4,350 +4,465 @@
     "url": "https://clementcoffee.com/pages/about",
     "hash": "15337802",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/pages/locations": {
     "requestedUrl": "https://sensorylab.com.au/pages/locations",
     "url": "https://sensorylab.com.au/pages/locations",
     "hash": "114bb72f",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://www.salvatoremalatesta.com.au/about": {
     "requestedUrl": "https://www.salvatoremalatesta.com.au/about",
     "url": "https://www.salvatoremalatesta.com.au/about",
     "hash": "131878a9",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
-  },
-  "https://clementcoffee.com/cart": {
-    "requestedUrl": "https://clementcoffee.com/cart",
-    "url": "https://clementcoffee.com/cart",
-    "hash": "29e15064",
-    "categories": [
-      "stali"
-    ],
-    "vertical": "stali"
-  },
-  "https://clementcoffee.com/products/pony-blend": {
-    "requestedUrl": "https://clementcoffee.com/products/pony-blend",
-    "url": "https://clementcoffee.com/products/pony-blend",
-    "hash": "349c3b3",
-    "categories": [
-      "stali"
-    ],
-    "vertical": "stali"
-  },
-  "https://clementcoffee.com/collections/blends": {
-    "requestedUrl": "https://clementcoffee.com/collections/blends",
-    "url": "https://clementcoffee.com/collections/blends",
-    "hash": "3a8ba1f8",
-    "categories": [
-      "stali"
-    ],
-    "vertical": "stali"
-  },
-  "https://clementcoffee.com/products/beaufort": {
-    "requestedUrl": "https://clementcoffee.com/products/beaufort",
-    "url": "https://clementcoffee.com/products/beaufort",
-    "hash": "3c1fbc6b",
-    "categories": [
-      "stali"
-    ],
-    "vertical": "stali"
-  },
-  "https://sensorylab.com.au/pages/contact": {
-    "requestedUrl": "https://sensorylab.com.au/pages/contact",
-    "url": "https://sensorylab.com.au/pages/contact",
-    "hash": "3f0e8a81",
-    "categories": [
-      "stali"
-    ],
-    "vertical": "stali"
-  },
-  "https://sensorylab.com.au/cart": {
-    "requestedUrl": "https://sensorylab.com.au/cart",
-    "url": "https://sensorylab.com.au/cart",
-    "hash": "4a5f668a",
-    "categories": [
-      "stali"
-    ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://clementcoffee.com/pages/wholesale": {
     "requestedUrl": "https://clementcoffee.com/pages/wholesale",
     "url": "https://clementcoffee.com/pages/wholesale",
     "hash": "29fb88cd",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
+  },
+  "https://clementcoffee.com/products/pony-blend": {
+    "requestedUrl": "https://clementcoffee.com/products/pony-blend",
+    "url": "https://clementcoffee.com/products/pony-blend",
+    "hash": "349c3b3",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
+  },
+  "https://clementcoffee.com/collections/blends": {
+    "requestedUrl": "https://clementcoffee.com/collections/blends",
+    "url": "https://clementcoffee.com/collections/blends",
+    "hash": "3a8ba1f8",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
+  },
+  "https://clementcoffee.com/cart": {
+    "requestedUrl": "https://clementcoffee.com/cart",
+    "url": "https://clementcoffee.com/cart",
+    "hash": "29e15064",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
+  },
+  "https://clementcoffee.com/products/beaufort": {
+    "requestedUrl": "https://clementcoffee.com/products/beaufort",
+    "url": "https://clementcoffee.com/products/beaufort",
+    "hash": "3c1fbc6b",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
+  },
+  "https://sensorylab.com.au/cart": {
+    "requestedUrl": "https://sensorylab.com.au/cart",
+    "url": "https://sensorylab.com.au/cart",
+    "hash": "4a5f668a",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
+  },
+  "https://sensorylab.com.au/pages/contact": {
+    "requestedUrl": "https://sensorylab.com.au/pages/contact",
+    "url": "https://sensorylab.com.au/pages/contact",
+    "hash": "3f0e8a81",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
   },
   "https://clementcoffee.com/": {
     "requestedUrl": "https://clementcoffee.com/",
     "url": "https://clementcoffee.com/",
     "hash": "5e1eb240",
     "categories": [
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "sal"
   },
   "https://sensorylab.com.au/collections/all": {
     "requestedUrl": "https://sensorylab.com.au/collections/all",
     "url": "https://sensorylab.com.au/collections/all",
     "hash": "614f48e5",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/": {
     "requestedUrl": "https://stali.com.au/",
     "url": "https://stali.com.au/",
     "hash": "6a5c9f6d",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/collections/coffee/products/st-ali-orthodox": {
     "requestedUrl": "https://stali.com.au/collections/coffee/products/st-ali-orthodox",
     "url": "https://stali.com.au/collections/coffee/products/st-ali-orthodox",
     "hash": "73ef266d",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/": {
     "requestedUrl": "https://sensorylab.com.au/",
     "url": "https://sensorylab.com.au/",
     "hash": "7d6fa36e",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://clementcoffee.com/products/decaf-guatemala": {
     "requestedUrl": "https://clementcoffee.com/products/decaf-guatemala",
     "url": "https://clementcoffee.com/products/decaf-guatemala",
     "hash": "84d672dc",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/products/santo-espresso-blend": {
     "requestedUrl": "https://sensorylab.com.au/products/santo-espresso-blend",
     "url": "https://sensorylab.com.au/products/santo-espresso-blend",
     "hash": "8526e3e1",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://www.salvatoremalatesta.com.au/": {
     "requestedUrl": "https://www.salvatoremalatesta.com.au/",
     "url": "https://www.salvatoremalatesta.com.au/",
     "hash": "86ce9404",
     "categories": [
+      "clement",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://www.salvatoremalatesta.com.au/photos": {
     "requestedUrl": "https://www.salvatoremalatesta.com.au/photos",
     "url": "https://www.salvatoremalatesta.com.au/photos",
     "hash": "8bc08e7b",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://www.salvatoremalatesta.com.au/social": {
     "requestedUrl": "https://www.salvatoremalatesta.com.au/social",
     "url": "https://www.salvatoremalatesta.com.au/social",
     "hash": "8c9cfb9f",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://www.salvatoremalatesta.com.au/wife-joanne": {
     "requestedUrl": "https://www.salvatoremalatesta.com.au/wife-joanne",
     "url": "https://www.salvatoremalatesta.com.au/wife-joanne",
     "hash": "a0aa6375",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://www.salvatoremalatesta.com.au/family": {
     "requestedUrl": "https://www.salvatoremalatesta.com.au/family",
     "url": "https://www.salvatoremalatesta.com.au/family",
     "hash": "a1f241f2",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/pages/about-us": {
     "requestedUrl": "https://sensorylab.com.au/pages/about-us",
     "url": "https://sensorylab.com.au/pages/about-us",
     "hash": "aa1f9067",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/collections/coffee": {
     "requestedUrl": "https://stali.com.au/collections/coffee",
     "url": "https://stali.com.au/collections/coffee",
     "hash": "ab8506b",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/collections/coffee-beans": {
     "requestedUrl": "https://sensorylab.com.au/collections/coffee-beans",
     "url": "https://sensorylab.com.au/collections/coffee-beans",
     "hash": "ac04ccfe",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/collections/coffee/products/st-ali-wide-awake": {
     "requestedUrl": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
     "url": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
     "hash": "afe770db",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/pages/about": {
     "requestedUrl": "https://stali.com.au/pages/about",
     "url": "https://stali.com.au/pages/about",
     "hash": "b62a436f",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/cart": {
     "requestedUrl": "https://stali.com.au/cart",
     "url": "https://stali.com.au/cart",
     "hash": "bc0f5749",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/collections/all": {
     "requestedUrl": "https://stali.com.au/collections/all",
     "url": "https://stali.com.au/collections/all",
     "hash": "bd20bf46",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/pages/contact": {
     "requestedUrl": "https://stali.com.au/pages/contact",
     "url": "https://stali.com.au/pages/contact",
     "hash": "cbda522",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://www.salvatoremalatesta.com.au/videos": {
     "requestedUrl": "https://www.salvatoremalatesta.com.au/videos",
     "url": "https://www.salvatoremalatesta.com.au/videos",
     "hash": "d682eb66",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://clementcoffee.com/collections/all": {
     "requestedUrl": "https://clementcoffee.com/collections/all",
     "url": "https://clementcoffee.com/collections/all",
     "hash": "ea70040b",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/collections/coffee-beans/products/steadfast-espresso-blend": {
     "requestedUrl": "https://sensorylab.com.au/collections/coffee-beans/products/steadfast-espresso-blend",
     "url": "https://sensorylab.com.au/collections/coffee-beans/products/steadfast-espresso-blend",
     "hash": "eab1fabe",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/collections/coffee-beans/products/stellar-espresso-blend": {
     "requestedUrl": "https://sensorylab.com.au/collections/coffee-beans/products/stellar-espresso-blend",
     "url": "https://sensorylab.com.au/collections/coffee-beans/products/stellar-espresso-blend",
     "hash": "f41573c8",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/collections/the-grocer": {
     "requestedUrl": "https://stali.com.au/collections/the-grocer",
     "url": "https://stali.com.au/collections/the-grocer",
     "hash": "f792cefd",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://stali.com.au/pages/st-ali-south-melbourne": {
     "requestedUrl": "https://stali.com.au/pages/st-ali-south-melbourne",
     "url": "https://stali.com.au/pages/st-ali-south-melbourne",
     "hash": "f953bfdc",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://sensorylab.com.au/collections/espresso-blends": {
     "requestedUrl": "https://sensorylab.com.au/collections/espresso-blends",
     "url": "https://sensorylab.com.au/collections/espresso-blends",
     "hash": "f9dc8e65",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
-  },
-  "https://stali.com.au/collections/coffee/products/italo-disco": {
-    "requestedUrl": "https://stali.com.au/collections/coffee/products/italo-disco",
-    "url": "https://stali.com.au/collections/coffee/products/italo-disco",
-    "hash": "fc69a33",
-    "categories": [
-      "stali"
-    ],
-    "vertical": "stali"
+    "vertical": "clement"
   },
   "https://clementcoffee.com/pages/contact": {
     "requestedUrl": "https://clementcoffee.com/pages/contact",
     "url": "https://clementcoffee.com/pages/contact",
     "hash": "fed8312f",
     "categories": [
+      "clement",
+      "sal",
+      "slab",
       "stali"
     ],
-    "vertical": "stali"
+    "vertical": "clement"
+  },
+  "https://stali.com.au/collections/coffee/products/italo-disco": {
+    "requestedUrl": "https://stali.com.au/collections/coffee/products/italo-disco",
+    "url": "https://stali.com.au/collections/coffee/products/italo-disco",
+    "hash": "fc69a33",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
   }
 }

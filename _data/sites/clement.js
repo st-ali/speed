@@ -2,7 +2,7 @@ module.exports = {
 	name: "CLEMENT COFFEE", // optional, falls back to object key
 	description: "clementcoffee.com",
 	options: {
-		frequency: 60 * 1, // (in minutes), 6 hours
+		frequency: 60 * 6, // (in minutes), 6 hours
 	},
 	urls: [
 		"https://clementcoffee.com/",

@@ -5,7 +5,7 @@ function makeTable(table) {
   let rows = Array.from(table.querySelectorAll(":scope tbody tr"));
   let minY = 90;
   let maxY = 100;
-  rows = rows.reverse();
+  rows = rows;
 
   for(let row of rows) {
     let label = row.children[0].innerText.split(" ");

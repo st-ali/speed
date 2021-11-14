@@ -1,8 +1,8 @@
 ---
 layout: layout.njk
 ---
-{% starterMessage %}
-<div class="starter-message">
+<!--{% starterMessage %}
+div class="starter-message">
 	<style>
 	.starter-message {
 		background-color: hsla(0, 0%, 0%, .4);
@@ -25,9 +25,9 @@ layout: layout.njk
 		<li>Remove this message from <code>index.njk</code></li>
 	</ol>
 </div>
-{% endstarterMessage %}
+{% endstarterMessage %}-->
 <table class="leaderboard leaderboard-list">
-	<caption>Choose a category</caption>
+	<caption>Sites</caption>
 	<thead data-sr-only>
 		<tr>
 			<th>Category</th>
@@ -39,9 +39,9 @@ layout: layout.njk
 	{%- for key, category in sites %}
 		{%- if not category.hide %}
 		<tr>
-			<td><a href="{{ ('/' + (category.name or key) | lower | slug + '/') | url }}">{{ category.description or category.name or key }}</a></td>
-			<td><span class="count">×{{ category.urls.length }}<span class="leaderboard-hide-sm"> site{% if category.urls.length != 1 %}s{% endif %}</span></span></td>
-			<td class="leaderboard-hide-sm">{% if lastruns[key].timestamp %}<span class="small"><timestamp-ago timestamp="{{ lastruns[key].timestamp }}">{{ lastruns[key].timestamp | displayDate | safe }}</timestamp-ago></span>{% endif %}</td>
+			<td>🚀 <a href="{{ ('/' + (category.name or key) | lower | slug + '/') | url }}">{{ category.description or category.name or key }}</a></td>
+			<td><span class="count">✅ {{ category.urls.length }}<span class="leaderboard-hide-sm"> page{% if category.urls.length != 1 %}s{% endif %} tested</span></span></td>
+			<td class="leaderboard-hide-sm">🕰 {% if lastruns[key].timestamp %}<span class="small"><timestamp-ago timestamp="{{ lastruns[key].timestamp }}">{{ lastruns[key].timestamp | displayDate | safe }}</timestamp-ago></span>{% endif %}</td>
 		</tr>
 		{%- endif %}
 	{%- endfor %}

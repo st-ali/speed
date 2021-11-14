@@ -2,7 +2,7 @@ module.exports = {
 	name: "SENSORY LAB", // optional, falls back to object key
 	description: "sensorylab.com.au",
 	options: {
-		frequency: 60 * 6, // (in minutes), 6 hours
+		frequency: 60 * 1, // (in minutes), 6 hours
 	},
 	urls: [
 		"https://sensorylab.com.au",

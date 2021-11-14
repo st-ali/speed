@@ -75,7 +75,7 @@ abbr {
 .speedlify-hed {
 	text-align: center;
 	font-size: 2em;
-	text-transform: lowercase;
+	text-transform: none;
 	font-style: italic;
 }
 @media (min-width: 37.5em) { /* 600px */
@@ -87,6 +87,7 @@ abbr {
 	padding: 0 2em;
 	margin: 0 auto;
 	max-width: 40em;
+	line-height: 1.5em;
 	text-align: center;
 }
 .speedlify-subhed ~ .speedlify-subhed {

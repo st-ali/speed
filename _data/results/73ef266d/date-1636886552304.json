@@ -45,11 +45,5 @@
   },
   "axe": {
     "error": "{}"
-  },
-  "previousRanks": {
-    "hundos": 10,
-    "performance": 10,
-    "accessibility": 9,
-    "cumulative": 10
   }
 }

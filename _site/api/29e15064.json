@@ -1,46 +1,47 @@
 {
   "url": "https://clementcoffee.com/cart",
   "requestedUrl": "https://clementcoffee.com/cart",
-  "timestamp": 1636881995792,
+  "timestamp": 1636923688063,
   "ranks": {
-    "hundos": 5,
-    "performance": 4,
+    "hundos": 8,
+    "performance": 5,
     "accessibility": 6,
-    "cumulative": 5
+    "cumulative": 8
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.78,
-    "accessibility": 0.94,
+    "version": "8.6.0",
+    "performance": 0.68,
+    "accessibility": 0.93,
     "bestPractices": 0.87,
     "seo": 0.86,
-    "total": 345
+    "total": 334
   },
-  "firstContentfulPaint": 2149.998,
-  "speedIndex": 3208.2435835600645,
-  "largestContentfulPaint": 2528.4979999999996,
-  "totalBlockingTime": 517.5,
-  "cumulativeLayoutShift": 0.008001132753160264,
-  "timeToInteractive": 6847.491,
-  "maxPotentialFirstInputDelay": 222,
-  "timeToFirstByte": 262.846,
+  "firstContentfulPaint": 2093.901,
+  "firstMeaningfulPaint": 2093.901,
+  "speedIndex": 3727.3703930468937,
+  "largestContentfulPaint": 2546.3399999999992,
+  "totalBlockingTime": 963.9999999999995,
+  "cumulativeLayoutShift": 0.008097025553385416,
+  "timeToInteractive": 7105.9169999999995,
+  "maxPotentialFirstInputDelay": 275.99999999999955,
+  "timeToFirstByte": 272.10200000000003,
   "weight": {
     "summary": "47 requests • 625 KiB",
-    "total": 639654,
-    "image": 5990,
+    "total": 640301,
+    "image": 5269,
     "imageCount": 4,
-    "script": 417926,
+    "script": 418735,
     "scriptCount": 25,
-    "document": 26230,
-    "font": 38877,
+    "document": 26331,
+    "font": 38875,
     "fontCount": 2,
     "stylesheet": 21430,
     "stylesheetCount": 1,
-    "thirdParty": 610816,
+    "thirdParty": 610929,
     "thirdPartyCount": 44
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 6
   },
   "previousRanks": {
-    "hundos": 7,
-    "performance": 3,
+    "hundos": 5,
+    "performance": 4,
     "accessibility": 6,
-    "cumulative": 7
+    "cumulative": 5
   }
 }

@@ -1,0 +1,51 @@
+{
+  "url": "https://www.salvatoremalatesta.com.au/family",
+  "requestedUrl": "https://www.salvatoremalatesta.com.au/family",
+  "timestamp": 1638497724003,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 7,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.87,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.98,
+    "total": 359
+  },
+  "firstContentfulPaint": 1862.25,
+  "firstMeaningfulPaint": 1937.567,
+  "speedIndex": 2140.4665649211292,
+  "largestContentfulPaint": 2492.603,
+  "totalBlockingTime": 24.5,
+  "cumulativeLayoutShift": 0.3020045708550347,
+  "timeToInteractive": 2707.737,
+  "maxPotentialFirstInputDelay": 67,
+  "timeToFirstByte": 227.875,
+  "weight": {
+    "summary": "16 requests • 136 KiB",
+    "total": 139258,
+    "image": 56313,
+    "imageCount": 7,
+    "script": 43476,
+    "scriptCount": 6,
+    "document": 2924,
+    "font": 17616,
+    "fontCount": 1,
+    "stylesheet": 18929,
+    "stylesheetCount": 1,
+    "thirdParty": 136334,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 115,
+    "violations": 9
+  }
+}

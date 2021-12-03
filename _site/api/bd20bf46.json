@@ -1,56 +1,57 @@
 {
   "url": "https://stali.com.au/collections/all",
   "requestedUrl": "https://stali.com.au/collections/all",
-  "timestamp": 1636886583404,
+  "timestamp": 1636925187477,
   "ranks": {
-    "hundos": 6,
-    "performance": 4,
-    "accessibility": 7,
-    "cumulative": 5
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 8,
+    "cumulative": 11
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.42,
-    "accessibility": 0.85,
-    "bestPractices": 0.8,
+    "version": "8.6.0",
+    "performance": 0.22,
+    "accessibility": 0.83,
+    "bestPractices": 0.73,
     "seo": 0.86,
-    "total": 293
+    "total": 264
   },
-  "firstContentfulPaint": 2278.54,
-  "speedIndex": 6722.622128295786,
-  "largestContentfulPaint": 4316.096,
-  "totalBlockingTime": 891.5,
-  "cumulativeLayoutShift": 0.0264404296875,
-  "timeToInteractive": 16369.071999999996,
-  "maxPotentialFirstInputDelay": 391,
-  "timeToFirstByte": 561.6859999999999,
+  "firstContentfulPaint": 4618.636,
+  "firstMeaningfulPaint": 4691.136,
+  "speedIndex": 10080.624556993238,
+  "largestContentfulPaint": 6101.116,
+  "totalBlockingTime": 3146.9999999999973,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 19747.716499999995,
+  "maxPotentialFirstInputDelay": 2501.9999999999986,
+  "timeToFirstByte": 475.475,
   "weight": {
-    "summary": "99 requests • 1,943 KiB",
-    "total": 1990089,
-    "image": 119788,
+    "summary": "99 requests • 1,956 KiB",
+    "total": 2002745,
+    "image": 119294,
     "imageCount": 20,
-    "script": 1575904,
+    "script": 1589159,
     "scriptCount": 50,
-    "document": 44018,
-    "font": 59791,
+    "document": 43878,
+    "font": 59819,
     "fontCount": 3,
-    "stylesheet": 50362,
+    "stylesheet": 49877,
     "stylesheetCount": 5,
-    "thirdParty": 1947231,
+    "thirdParty": 1959545,
     "thirdPartyCount": 97
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "axe": {
-    "passes": 1571,
-    "violations": 24
+    "passes": 1548,
+    "violations": 22
   },
   "previousRanks": {
-    "hundos": 7,
+    "hundos": 3,
     "performance": 3,
-    "accessibility": 7,
-    "cumulative": 7
+    "accessibility": 9,
+    "cumulative": 3
   }
 }

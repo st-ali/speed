@@ -1,43 +1,44 @@
 {
   "url": "https://sensorylab.com.au/products/santo-espresso-blend",
   "requestedUrl": "https://sensorylab.com.au/products/santo-espresso-blend",
-  "timestamp": 1636882274156,
+  "timestamp": 1636924227258,
   "ranks": {
-    "hundos": 10,
-    "performance": 9,
-    "accessibility": 10,
-    "cumulative": 10
+    "hundos": 6,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 6
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.27,
-    "accessibility": 0.75,
+    "version": "8.6.0",
+    "performance": 0.24,
+    "accessibility": 0.86,
     "bestPractices": 0.73,
     "seo": 0.93,
-    "total": 268
+    "total": 276
   },
-  "firstContentfulPaint": 2263.548,
-  "speedIndex": 9249.556725787275,
-  "largestContentfulPaint": 7004.468999999999,
-  "totalBlockingTime": 896,
-  "cumulativeLayoutShift": 0.40598797853153795,
-  "timeToInteractive": 11915.7025,
-  "maxPotentialFirstInputDelay": 300,
-  "timeToFirstByte": 264.13300000000004,
+  "firstContentfulPaint": 2528.508,
+  "firstMeaningfulPaint": 3700.1769999999997,
+  "speedIndex": 10433.974988023649,
+  "largestContentfulPaint": 7789.246000000001,
+  "totalBlockingTime": 1289.8070000000007,
+  "cumulativeLayoutShift": 0.20324462890625,
+  "timeToInteractive": 13979.277000000004,
+  "maxPotentialFirstInputDelay": 841,
+  "timeToFirstByte": 458.79,
   "weight": {
-    "summary": "87 requests • 1,425 KiB",
-    "total": 1459579,
-    "image": 237756,
+    "summary": "88 requests • 1,426 KiB",
+    "total": 1459768,
+    "image": 237584,
     "imageCount": 14,
-    "script": 887192,
+    "script": 886515,
     "scriptCount": 40,
-    "document": 34962,
-    "font": 103812,
+    "document": 35061,
+    "font": 103839,
     "fontCount": 3,
-    "stylesheet": 58200,
+    "stylesheet": 58178,
     "stylesheetCount": 5,
-    "thirdParty": 1419044,
-    "thirdPartyCount": 84
+    "thirdParty": 1418530,
+    "thirdPartyCount": 85
   },
   "run": {
     "number": 1,
@@ -48,9 +49,9 @@
     "violations": 19
   },
   "previousRanks": {
-    "hundos": 9,
-    "performance": 7,
+    "hundos": 10,
+    "performance": 9,
     "accessibility": 10,
-    "cumulative": 9
+    "cumulative": 10
   }
 }

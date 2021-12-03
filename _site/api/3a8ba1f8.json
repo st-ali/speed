@@ -1,42 +1,43 @@
 {
   "url": "https://clementcoffee.com/collections/blends",
   "requestedUrl": "https://clementcoffee.com/collections/blends",
-  "timestamp": 1636881922536,
+  "timestamp": 1636923724866,
   "ranks": {
-    "hundos": 4,
-    "performance": 6,
+    "hundos": 9,
+    "performance": 9,
     "accessibility": 2,
-    "cumulative": 4
+    "cumulative": 9
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.66,
+    "version": "8.6.0",
+    "performance": 0.49,
     "accessibility": 0.94,
     "bestPractices": 0.93,
     "seo": 0.93,
-    "total": 346
+    "total": 329
   },
-  "firstContentfulPaint": 2086.6369999999997,
-  "speedIndex": 3558.7159422828254,
-  "largestContentfulPaint": 4914.88,
-  "totalBlockingTime": 348,
-  "cumulativeLayoutShift": 0.8142925893995497,
-  "timeToInteractive": 5453.927999999999,
-  "maxPotentialFirstInputDelay": 234,
-  "timeToFirstByte": 260.5329999999999,
+  "firstContentfulPaint": 2696.4120000000003,
+  "firstMeaningfulPaint": 2714.4120000000003,
+  "speedIndex": 4458.359028005017,
+  "largestContentfulPaint": 4362.642,
+  "totalBlockingTime": 1455.4920000000002,
+  "cumulativeLayoutShift": 0.008339290221532186,
+  "timeToInteractive": 6404.531500000001,
+  "maxPotentialFirstInputDelay": 615,
+  "timeToFirstByte": 270.46000000000004,
   "weight": {
     "summary": "37 requests • 524 KiB",
-    "total": 536121,
-    "image": 35033,
+    "total": 536531,
+    "image": 34913,
     "imageCount": 6,
-    "script": 267768,
+    "script": 268106,
     "scriptCount": 16,
-    "document": 26089,
-    "font": 59672,
+    "document": 26144,
+    "font": 59818,
     "fontCount": 3,
     "stylesheet": 21430,
     "stylesheetCount": 1,
-    "thirdParty": 510032,
+    "thirdParty": 510387,
     "thirdPartyCount": 36
   },
   "run": {
@@ -48,9 +49,9 @@
     "violations": 6
   },
   "previousRanks": {
-    "hundos": 5,
+    "hundos": 4,
     "performance": 6,
     "accessibility": 2,
-    "cumulative": 5
+    "cumulative": 4
   }
 }

@@ -1,46 +1,47 @@
 {
   "url": "https://sensorylab.com.au/collections/coffee-beans/products/steadfast-espresso-blend",
   "requestedUrl": "https://sensorylab.com.au/collections/coffee-beans/products/steadfast-espresso-blend",
-  "timestamp": 1636882432976,
+  "timestamp": 1636924250132,
   "ranks": {
-    "hundos": 4,
-    "performance": 5,
-    "accessibility": 8,
-    "cumulative": 4
+    "hundos": 9,
+    "performance": 10,
+    "accessibility": 10,
+    "cumulative": 9
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.39,
-    "accessibility": 0.81,
+    "version": "8.6.0",
+    "performance": 0.22,
+    "accessibility": 0.85,
     "bestPractices": 0.73,
     "seo": 0.93,
-    "total": 286
+    "total": 273
   },
-  "firstContentfulPaint": 2233.009,
-  "speedIndex": 8001.43587803544,
-  "largestContentfulPaint": 5138.009,
-  "totalBlockingTime": 656.4999999999991,
-  "cumulativeLayoutShift": 0.40598797853153795,
-  "timeToInteractive": 11227.639,
-  "maxPotentialFirstInputDelay": 241,
-  "timeToFirstByte": 336.54699999999997,
+  "firstContentfulPaint": 4232.8905,
+  "firstMeaningfulPaint": 4725.3905,
+  "speedIndex": 14311.487849613663,
+  "largestContentfulPaint": 7173.2045,
+  "totalBlockingTime": 2166.132499999999,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14552.454500000003,
+  "maxPotentialFirstInputDelay": 3194.999999999999,
+  "timeToFirstByte": 534.0249999999999,
   "weight": {
-    "summary": "83 requests • 1,339 KiB",
-    "total": 1370983,
-    "image": 206706,
+    "summary": "83 requests • 1,340 KiB",
+    "total": 1371827,
+    "image": 207383,
     "imageCount": 12,
-    "script": 834268,
+    "script": 833006,
     "scriptCount": 39,
-    "document": 32819,
-    "font": 103811,
+    "document": 32893,
+    "font": 103835,
     "fontCount": 3,
-    "stylesheet": 56281,
+    "stylesheet": 56284,
     "stylesheetCount": 4,
-    "thirdParty": 1333248,
+    "thirdParty": 1332641,
     "thirdPartyCount": 80
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 26
   },
   "previousRanks": {
-    "hundos": 8,
-    "performance": 9,
+    "hundos": 4,
+    "performance": 5,
     "accessibility": 8,
-    "cumulative": 8
+    "cumulative": 4
   }
 }

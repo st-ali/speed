@@ -1,56 +1,57 @@
 {
   "url": "https://stali.com.au/",
   "requestedUrl": "https://stali.com.au/",
-  "timestamp": 1636886896456,
+  "timestamp": 1636925135813,
   "ranks": {
-    "hundos": 1,
-    "performance": 1,
+    "hundos": 6,
+    "performance": 7,
     "accessibility": 10,
-    "cumulative": 1
+    "cumulative": 6
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.5,
-    "accessibility": 0.82,
+    "version": "8.6.0",
+    "performance": 0.33,
+    "accessibility": 0.81,
     "bestPractices": 0.8,
     "seo": 0.93,
-    "total": 305
+    "total": 287
   },
-  "firstContentfulPaint": 1869.4840000000004,
-  "speedIndex": 5776.715974011129,
-  "largestContentfulPaint": 3225.2819999999997,
-  "totalBlockingTime": 1043.5,
-  "cumulativeLayoutShift": 0.06951362609863282,
-  "timeToInteractive": 14809.759500000004,
-  "maxPotentialFirstInputDelay": 240,
-  "timeToFirstByte": 385.47400000000005,
+  "firstContentfulPaint": 3265.9210000000007,
+  "firstMeaningfulPaint": 3315.5470000000005,
+  "speedIndex": 6962.237660198198,
+  "largestContentfulPaint": 4893.730999999999,
+  "totalBlockingTime": 1828.9999999999984,
+  "cumulativeLayoutShift": 0.04520263671875,
+  "timeToInteractive": 17331.833999999995,
+  "maxPotentialFirstInputDelay": 332,
+  "timeToFirstByte": 384.523,
   "weight": {
-    "summary": "88 requests • 2,245 KiB",
-    "total": 2299212,
-    "image": 768239,
-    "imageCount": 16,
-    "script": 1279404,
+    "summary": "87 requests • 2,011 KiB",
+    "total": 2059417,
+    "image": 527534,
+    "imageCount": 17,
+    "script": 1279564,
     "scriptCount": 43,
-    "document": 35331,
-    "font": 38879,
+    "document": 35729,
+    "font": 38875,
     "fontCount": 2,
-    "stylesheet": 38180,
+    "stylesheet": 38179,
     "stylesheetCount": 3,
-    "thirdParty": 2265587,
-    "thirdPartyCount": 86
+    "thirdParty": 2024365,
+    "thirdPartyCount": 85
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "axe": {
-    "passes": 816,
-    "violations": 20
+    "passes": 936,
+    "violations": 32
   },
   "previousRanks": {
-    "hundos": 5,
-    "performance": 6,
+    "hundos": 8,
+    "performance": 9,
     "accessibility": 10,
-    "cumulative": 5
+    "cumulative": 8
   }
 }

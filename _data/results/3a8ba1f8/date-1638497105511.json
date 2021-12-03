@@ -1,0 +1,51 @@
+{
+  "url": "https://clementcoffee.com/collections/blends",
+  "requestedUrl": "https://clementcoffee.com/collections/blends",
+  "timestamp": 1638497146288,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.8,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 360
+  },
+  "firstContentfulPaint": 2307.022,
+  "firstMeaningfulPaint": 2317.522,
+  "speedIndex": 3826.6278737032726,
+  "largestContentfulPaint": 3099.844,
+  "totalBlockingTime": 316.5,
+  "cumulativeLayoutShift": 0.008339290221532186,
+  "timeToInteractive": 5783.178000000001,
+  "maxPotentialFirstInputDelay": 183,
+  "timeToFirstByte": 367.54400000000004,
+  "weight": {
+    "summary": "37 requests • 525 KiB",
+    "total": 537874,
+    "image": 35036,
+    "imageCount": 6,
+    "script": 269510,
+    "scriptCount": 16,
+    "document": 26111,
+    "font": 59798,
+    "fontCount": 3,
+    "stylesheet": 21408,
+    "stylesheetCount": 1,
+    "thirdParty": 511763,
+    "thirdPartyCount": 36
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 567,
+    "violations": 6
+  }
+}

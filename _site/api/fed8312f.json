@@ -1,42 +1,43 @@
 {
   "url": "https://clementcoffee.com/pages/contact",
   "requestedUrl": "https://clementcoffee.com/pages/contact",
-  "timestamp": 1636881773886,
+  "timestamp": 1636923515346,
   "ranks": {
-    "hundos": 3,
-    "performance": 2,
+    "hundos": 1,
+    "performance": 1,
     "accessibility": 5,
-    "cumulative": 3
+    "cumulative": 1
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.85,
-    "accessibility": 0.94,
+    "version": "8.6.0",
+    "performance": 0.83,
+    "accessibility": 0.93,
     "bestPractices": 0.93,
     "seo": 0.93,
-    "total": 365
+    "total": 362
   },
-  "firstContentfulPaint": 2111.535,
-  "speedIndex": 2917.62514607326,
-  "largestContentfulPaint": 2569.205999999999,
-  "totalBlockingTime": 272,
-  "cumulativeLayoutShift": 0.5404815542432997,
-  "timeToInteractive": 5238.091,
-  "maxPotentialFirstInputDelay": 243,
-  "timeToFirstByte": 288.21299999999997,
+  "firstContentfulPaint": 2242.737,
+  "firstMeaningfulPaint": 2276.737,
+  "speedIndex": 3796.987324205077,
+  "largestContentfulPaint": 2845.4570000000003,
+  "totalBlockingTime": 278.5,
+  "cumulativeLayoutShift": 0.008339290221532186,
+  "timeToInteractive": 5665.233,
+  "maxPotentialFirstInputDelay": 157,
+  "timeToFirstByte": 408.50699999999995,
   "weight": {
     "summary": "33 requests • 474 KiB",
-    "total": 485223,
+    "total": 485255,
     "image": 5354,
     "imageCount": 3,
-    "script": 268067,
+    "script": 267988,
     "scriptCount": 16,
-    "document": 25370,
-    "font": 38876,
+    "document": 25469,
+    "font": 38875,
     "fontCount": 2,
     "stylesheet": 21430,
     "stylesheetCount": 1,
-    "thirdParty": 459853,
+    "thirdParty": 459786,
     "thirdPartyCount": 32
   },
   "run": {
@@ -48,9 +49,9 @@
     "violations": 6
   },
   "previousRanks": {
-    "hundos": 2,
-    "performance": 1,
+    "hundos": 3,
+    "performance": 2,
     "accessibility": 5,
-    "cumulative": 2
+    "cumulative": 3
   }
 }

@@ -1,46 +1,47 @@
 {
   "url": "https://sensorylab.com.au/cart",
   "requestedUrl": "https://sensorylab.com.au/cart",
-  "timestamp": 1636882639922,
+  "timestamp": 1636924369425,
   "ranks": {
-    "hundos": 9,
-    "performance": 3,
+    "hundos": 11,
+    "performance": 5,
     "accessibility": 1,
-    "cumulative": 9
+    "cumulative": 11
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.42,
-    "accessibility": 0.86,
+    "version": "8.6.0",
+    "performance": 0.28,
+    "accessibility": 0.91,
     "bestPractices": 0.67,
     "seo": 0.79,
-    "total": 274
+    "total": 265
   },
-  "firstContentfulPaint": 2355.701,
-  "speedIndex": 8219.531436467261,
-  "largestContentfulPaint": 4566.5070000000005,
-  "totalBlockingTime": 629,
-  "cumulativeLayoutShift": 0.40614862673150165,
-  "timeToInteractive": 10700.2175,
-  "maxPotentialFirstInputDelay": 226,
-  "timeToFirstByte": 257.184,
+  "firstContentfulPaint": 2362.393,
+  "firstMeaningfulPaint": 3669.062,
+  "speedIndex": 8043.231363284111,
+  "largestContentfulPaint": 15416.433999999994,
+  "totalBlockingTime": 1033.5,
+  "cumulativeLayoutShift": 0.20324462890625,
+  "timeToInteractive": 12603.693499999998,
+  "maxPotentialFirstInputDelay": 290,
+  "timeToFirstByte": 423.294,
   "weight": {
-    "summary": "73 requests • 1,267 KiB",
-    "total": 1297271,
-    "image": 176568,
+    "summary": "74 requests • 1,268 KiB",
+    "total": 1298420,
+    "image": 176630,
     "imageCount": 8,
-    "script": 805293,
+    "script": 804536,
     "scriptCount": 36,
-    "document": 24157,
-    "font": 103841,
+    "document": 24125,
+    "font": 103812,
     "fontCount": 3,
-    "stylesheet": 56304,
+    "stylesheet": 56285,
     "stylesheetCount": 4,
-    "thirdParty": 1272485,
-    "thirdPartyCount": 67
+    "thirdParty": 1272280,
+    "thirdPartyCount": 68
   },
   "run": {
-    "number": 3,
+    "number": 1,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 10
   },
   "previousRanks": {
-    "hundos": 6,
+    "hundos": 9,
     "performance": 3,
     "accessibility": 1,
-    "cumulative": 6
+    "cumulative": 9
   }
 }

@@ -1,46 +1,47 @@
 {
   "url": "https://stali.com.au/pages/contact",
   "requestedUrl": "https://stali.com.au/pages/contact",
-  "timestamp": 1636886689338,
+  "timestamp": 1636925374016,
   "ranks": {
-    "hundos": 2,
-    "performance": 2,
-    "accessibility": 2,
-    "cumulative": 2
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 1
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.46,
-    "accessibility": 0.88,
+    "version": "8.6.0",
+    "performance": 0.53,
+    "accessibility": 0.84,
     "bestPractices": 0.8,
     "seo": 0.86,
-    "total": 300
+    "total": 305
   },
-  "firstContentfulPaint": 2159.163,
-  "speedIndex": 7781.251068068602,
-  "largestContentfulPaint": 2944.773,
-  "totalBlockingTime": 1270.9999999999982,
-  "cumulativeLayoutShift": 0.0264404296875,
-  "timeToInteractive": 16561.252,
-  "maxPotentialFirstInputDelay": 475,
-  "timeToFirstByte": 561.368,
+  "firstContentfulPaint": 2439.405,
+  "firstMeaningfulPaint": 2439.405,
+  "speedIndex": 7372.486223716994,
+  "largestContentfulPaint": 3003.906,
+  "totalBlockingTime": 971,
+  "cumulativeLayoutShift": 0.02564697265625,
+  "timeToInteractive": 18127.6285,
+  "maxPotentialFirstInputDelay": 304,
+  "timeToFirstByte": 504.831,
   "weight": {
-    "summary": "92 requests • 1,854 KiB",
-    "total": 1898298,
-    "image": 52874,
+    "summary": "92 requests • 1,865 KiB",
+    "total": 1910164,
+    "image": 52833,
     "imageCount": 14,
-    "script": 1576373,
+    "script": 1588324,
     "scriptCount": 50,
-    "document": 39573,
-    "font": 38877,
+    "document": 39067,
+    "font": 38875,
     "fontCount": 2,
-    "stylesheet": 50363,
+    "stylesheet": 50361,
     "stylesheetCount": 5,
-    "thirdParty": 1859891,
+    "thirdParty": 1871777,
     "thirdPartyCount": 90
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 13
   },
   "previousRanks": {
-    "hundos": 2,
-    "performance": 1,
+    "hundos": 4,
+    "performance": 5,
     "accessibility": 2,
-    "cumulative": 2
+    "cumulative": 4
   }
 }

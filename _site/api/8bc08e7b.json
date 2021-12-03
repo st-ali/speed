@@ -1,42 +1,43 @@
 {
   "url": "https://www.salvatoremalatesta.com.au/photos",
   "requestedUrl": "https://www.salvatoremalatesta.com.au/photos",
-  "timestamp": 1636882153653,
+  "timestamp": 1636924071361,
   "ranks": {
-    "hundos": 5,
-    "performance": 4,
-    "accessibility": 4,
-    "cumulative": 5
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 3,
+    "cumulative": 4
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.95,
-    "accessibility": 0.94,
+    "version": "8.6.0",
+    "performance": 0.87,
+    "accessibility": 1,
     "bestPractices": 0.8,
     "seo": 0.97,
-    "total": 366
+    "total": 364
   },
-  "firstContentfulPaint": 1689.065,
-  "speedIndex": 1689.065,
-  "largestContentfulPaint": 2099.565,
-  "totalBlockingTime": 38.5,
-  "cumulativeLayoutShift": 0.3817651663886176,
-  "timeToInteractive": 2376.6400000000003,
-  "maxPotentialFirstInputDelay": 91,
-  "timeToFirstByte": 26.640000000000015,
+  "firstContentfulPaint": 1717.545,
+  "firstMeaningfulPaint": 1823.045,
+  "speedIndex": 1883.9792085448553,
+  "largestContentfulPaint": 2078.545,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.38236643430921763,
+  "timeToInteractive": 2448.545,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 32.52999999999997,
   "weight": {
     "summary": "19 requests • 568 KiB",
-    "total": 581430,
-    "image": 498880,
+    "total": 581450,
+    "image": 498887,
     "imageCount": 10,
-    "script": 43358,
+    "script": 43360,
     "scriptCount": 6,
-    "document": 2786,
+    "document": 2788,
     "font": 17491,
     "fontCount": 1,
-    "stylesheet": 18915,
+    "stylesheet": 18924,
     "stylesheetCount": 1,
-    "thirdParty": 578644,
+    "thirdParty": 578662,
     "thirdPartyCount": 18
   },
   "run": {
@@ -48,9 +49,9 @@
     "violations": 7
   },
   "previousRanks": {
-    "hundos": 6,
-    "performance": 5,
-    "accessibility": 3,
-    "cumulative": 6
+    "hundos": 5,
+    "performance": 4,
+    "accessibility": 4,
+    "cumulative": 5
   }
 }

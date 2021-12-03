@@ -1,46 +1,47 @@
 {
   "url": "https://www.salvatoremalatesta.com.au/social",
   "requestedUrl": "https://www.salvatoremalatesta.com.au/social",
-  "timestamp": 1636882121058,
+  "timestamp": 1636923940425,
   "ranks": {
     "hundos": 3,
-    "performance": 6,
-    "accessibility": 7,
+    "performance": 4,
+    "accessibility": 5,
     "cumulative": 3
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.95,
-    "accessibility": 0.94,
+    "version": "8.6.0",
+    "performance": 0.87,
+    "accessibility": 1,
     "bestPractices": 0.8,
     "seo": 0.98,
-    "total": 367
+    "total": 365
   },
-  "firstContentfulPaint": 1645.451,
-  "speedIndex": 2056.726509906673,
-  "largestContentfulPaint": 2101.451,
-  "totalBlockingTime": 129,
-  "cumulativeLayoutShift": 0.36004541015625,
-  "timeToInteractive": 2404.7205000000004,
-  "maxPotentialFirstInputDelay": 152,
-  "timeToFirstByte": 39.50199999999995,
+  "firstContentfulPaint": 1623.9809999999998,
+  "firstMeaningfulPaint": 1623.9809999999998,
+  "speedIndex": 1623.9809999999998,
+  "largestContentfulPaint": 2143.9809999999998,
+  "totalBlockingTime": 90,
+  "cumulativeLayoutShift": 0.3606617380777995,
+  "timeToInteractive": 2504.9809999999998,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 45.11499999999998,
   "weight": {
     "summary": "13 requests • 95 KiB",
-    "total": 97457,
-    "image": 13272,
+    "total": 97459,
+    "image": 13262,
     "imageCount": 4,
-    "script": 43360,
+    "script": 43355,
     "scriptCount": 6,
-    "document": 4419,
+    "document": 4420,
     "font": 17491,
     "fontCount": 1,
-    "stylesheet": 18915,
+    "stylesheet": 18931,
     "stylesheetCount": 1,
-    "thirdParty": 93038,
+    "thirdParty": 93039,
     "thirdPartyCount": 12
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 9
   },
   "previousRanks": {
-    "hundos": 5,
+    "hundos": 3,
     "performance": 6,
-    "accessibility": 6,
-    "cumulative": 5
+    "accessibility": 7,
+    "cumulative": 3
   }
 }

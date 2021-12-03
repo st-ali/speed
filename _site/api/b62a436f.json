@@ -1,43 +1,44 @@
 {
   "url": "https://stali.com.au/pages/about",
   "requestedUrl": "https://stali.com.au/pages/about",
-  "timestamp": 1636886701902,
+  "timestamp": 1636925088193,
   "ranks": {
-    "hundos": 4,
-    "performance": 7,
-    "accessibility": 3,
-    "cumulative": 4
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 3
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.37,
-    "accessibility": 0.87,
+    "version": "8.6.0",
+    "performance": 0.36,
+    "accessibility": 0.86,
     "bestPractices": 0.8,
     "seo": 0.93,
-    "total": 297
+    "total": 295
   },
-  "firstContentfulPaint": 2316.1315,
-  "speedIndex": 8176.370976419017,
-  "largestContentfulPaint": 3515.1555000000008,
-  "totalBlockingTime": 1281.5,
-  "cumulativeLayoutShift": 0.35556640625,
-  "timeToInteractive": 16832.213000000003,
-  "maxPotentialFirstInputDelay": 359,
-  "timeToFirstByte": 433.8709999999999,
+  "firstContentfulPaint": 2357.4809999999998,
+  "firstMeaningfulPaint": 2357.4809999999998,
+  "speedIndex": 7713.059134608363,
+  "largestContentfulPaint": 3432.0909999999994,
+  "totalBlockingTime": 1531,
+  "cumulativeLayoutShift": 0.32916259765625,
+  "timeToInteractive": 18619.532499999998,
+  "maxPotentialFirstInputDelay": 520,
+  "timeToFirstByte": 420.52,
   "weight": {
-    "summary": "93 requests • 1,955 KiB",
-    "total": 2001516,
-    "image": 156653,
-    "imageCount": 13,
-    "script": 1575606,
+    "summary": "94 requests • 1,968 KiB",
+    "total": 2014856,
+    "image": 156327,
+    "imageCount": 14,
+    "script": 1588895,
     "scriptCount": 50,
-    "document": 39645,
-    "font": 38876,
+    "document": 39650,
+    "font": 38874,
     "fontCount": 2,
-    "stylesheet": 50362,
+    "stylesheet": 50361,
     "stylesheetCount": 5,
-    "thirdParty": 1963035,
-    "thirdPartyCount": 91
+    "thirdParty": 1975882,
+    "thirdPartyCount": 92
   },
   "run": {
     "number": 1,
@@ -48,9 +49,9 @@
     "violations": 13
   },
   "previousRanks": {
-    "hundos": 1,
-    "performance": 4,
+    "hundos": 2,
+    "performance": 7,
     "accessibility": 3,
-    "cumulative": 1
+    "cumulative": 2
   }
 }

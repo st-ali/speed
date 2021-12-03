@@ -1,0 +1,51 @@
+{
+  "url": "https://sensorylab.com.au/pages/about-us",
+  "requestedUrl": "https://sensorylab.com.au/pages/about-us",
+  "timestamp": 1636924350006,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.31,
+    "accessibility": 0.89,
+    "bestPractices": 0.73,
+    "seo": 0.86,
+    "total": 279
+  },
+  "firstContentfulPaint": 2466.251,
+  "firstMeaningfulPaint": 3707.0440000000003,
+  "speedIndex": 6826.546733595958,
+  "largestContentfulPaint": 14943.178499999998,
+  "totalBlockingTime": 876,
+  "cumulativeLayoutShift": 0.20324462890625,
+  "timeToInteractive": 12313.064999999997,
+  "maxPotentialFirstInputDelay": 286,
+  "timeToFirstByte": 442.861,
+  "weight": {
+    "summary": "68 requests • 1,309 KiB",
+    "total": 1339931,
+    "image": 221482,
+    "imageCount": 7,
+    "script": 803076,
+    "scriptCount": 35,
+    "document": 24754,
+    "font": 103810,
+    "fontCount": 3,
+    "stylesheet": 56272,
+    "stylesheetCount": 4,
+    "thirdParty": 1315177,
+    "thirdPartyCount": 67
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 558,
+    "violations": 11
+  }
+}

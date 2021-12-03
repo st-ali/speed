@@ -1,0 +1,51 @@
+{
+  "url": "https://clementcoffee.com/pages/about",
+  "requestedUrl": "https://clementcoffee.com/pages/about",
+  "timestamp": 1636923673611,
+  "ranks": {
+    "hundos": 4,
+    "performance": 2,
+    "accessibility": 10,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.77,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 348
+  },
+  "firstContentfulPaint": 2337.6769999999997,
+  "firstMeaningfulPaint": 2350.6769999999997,
+  "speedIndex": 3628.974448246119,
+  "largestContentfulPaint": 2890.6769999999997,
+  "totalBlockingTime": 387,
+  "cumulativeLayoutShift": 0.12703691426912944,
+  "timeToInteractive": 5642.0380000000005,
+  "maxPotentialFirstInputDelay": 242,
+  "timeToFirstByte": 268.82500000000005,
+  "weight": {
+    "summary": "34 requests • 506 KiB",
+    "total": 517758,
+    "image": 37797,
+    "imageCount": 4,
+    "script": 267974,
+    "scriptCount": 16,
+    "document": 25553,
+    "font": 38876,
+    "fontCount": 2,
+    "stylesheet": 21430,
+    "stylesheetCount": 1,
+    "thirdParty": 492205,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 496,
+    "violations": 8
+  }
+}

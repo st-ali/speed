@@ -1,46 +1,47 @@
 {
   "url": "https://www.salvatoremalatesta.com.au/about",
   "requestedUrl": "https://www.salvatoremalatesta.com.au/about",
-  "timestamp": 1636882091420,
+  "timestamp": 1636923902352,
   "ranks": {
-    "hundos": 6,
-    "performance": 3,
-    "accessibility": 5,
-    "cumulative": 6
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 2
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.95,
-    "accessibility": 0.94,
+    "version": "8.6.0",
+    "performance": 0.93,
+    "accessibility": 1,
     "bestPractices": 0.8,
     "seo": 0.97,
-    "total": 366
+    "total": 370
   },
-  "firstContentfulPaint": 1637.115,
-  "speedIndex": 1637.115,
-  "largestContentfulPaint": 2193.615,
-  "totalBlockingTime": 51.49999999999977,
-  "cumulativeLayoutShift": 0.36004541015625,
-  "timeToInteractive": 2353.7124999999996,
-  "maxPotentialFirstInputDelay": 94.99999999999977,
-  "timeToFirstByte": 92.46799999999999,
+  "firstContentfulPaint": 1749.754,
+  "firstMeaningfulPaint": 1751.254,
+  "speedIndex": 2842.704238433622,
+  "largestContentfulPaint": 2691.622,
+  "totalBlockingTime": 154,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2365.754,
+  "maxPotentialFirstInputDelay": 153,
+  "timeToFirstByte": 33.922,
   "weight": {
     "summary": "13 requests • 94 KiB",
-    "total": 95888,
+    "total": 95893,
     "image": 13262,
     "imageCount": 4,
-    "script": 43363,
+    "script": 43359,
     "scriptCount": 6,
     "document": 2857,
     "font": 17491,
     "fontCount": 1,
-    "stylesheet": 18915,
+    "stylesheet": 18924,
     "stylesheetCount": 1,
-    "thirdParty": 93031,
+    "thirdParty": 93036,
     "thirdPartyCount": 12
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 7
   },
   "previousRanks": {
-    "hundos": 4,
-    "performance": 4,
-    "accessibility": 4,
-    "cumulative": 4
+    "hundos": 6,
+    "performance": 3,
+    "accessibility": 5,
+    "cumulative": 6
   }
 }

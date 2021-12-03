@@ -1,46 +1,47 @@
 {
   "url": "https://sensorylab.com.au/collections/espresso-blends",
   "requestedUrl": "https://sensorylab.com.au/collections/espresso-blends",
-  "timestamp": 1636882259418,
+  "timestamp": 1636924678315,
   "ranks": {
-    "hundos": 5,
-    "performance": 2,
+    "hundos": 7,
+    "performance": 6,
     "accessibility": 5,
-    "cumulative": 5
+    "cumulative": 7
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.42,
-    "accessibility": 0.85,
+    "version": "8.6.0",
+    "performance": 0.28,
+    "accessibility": 0.89,
     "bestPractices": 0.73,
     "seo": 0.86,
-    "total": 286
+    "total": 276
   },
-  "firstContentfulPaint": 2321.769,
-  "speedIndex": 7201.393186200246,
-  "largestContentfulPaint": 4023.2374999999997,
-  "totalBlockingTime": 822.4999999999991,
-  "cumulativeLayoutShift": 0.4066435472501648,
-  "timeToInteractive": 10762.261999999999,
-  "maxPotentialFirstInputDelay": 270,
-  "timeToFirstByte": 322.22,
+  "firstContentfulPaint": 2354.865,
+  "firstMeaningfulPaint": 3657.1279999999997,
+  "speedIndex": 8512.007294822535,
+  "largestContentfulPaint": 15231.0555,
+  "totalBlockingTime": 972.0000000000018,
+  "cumulativeLayoutShift": 0.20324462890625,
+  "timeToInteractive": 12889.961,
+  "maxPotentialFirstInputDelay": 253,
+  "timeToFirstByte": 256.726,
   "weight": {
-    "summary": "72 requests • 1,302 KiB",
-    "total": 1333145,
-    "image": 212173,
-    "imageCount": 13,
-    "script": 803103,
+    "summary": "71 requests • 1,301 KiB",
+    "total": 1332686,
+    "image": 212056,
+    "imageCount": 12,
+    "script": 802856,
     "scriptCount": 35,
-    "document": 27174,
+    "document": 27149,
     "font": 103812,
     "fontCount": 3,
-    "stylesheet": 56327,
+    "stylesheet": 56276,
     "stylesheetCount": 4,
-    "thirdParty": 1305971,
-    "thirdPartyCount": 71
+    "thirdParty": 1305537,
+    "thirdPartyCount": 70
   },
   "run": {
-    "number": 1,
+    "number": 3,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 16
   },
   "previousRanks": {
-    "hundos": 1,
-    "performance": 1,
+    "hundos": 5,
+    "performance": 2,
     "accessibility": 5,
-    "cumulative": 1
+    "cumulative": 5
   }
 }

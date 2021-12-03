@@ -1,46 +1,47 @@
 {
   "url": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
   "requestedUrl": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
-  "timestamp": 1636886968791,
+  "timestamp": 1636925316941,
   "ranks": {
-    "hundos": 7,
+    "hundos": 5,
     "performance": 8,
     "accessibility": 5,
-    "cumulative": 6
+    "cumulative": 4
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.34,
-    "accessibility": 0.85,
+    "version": "8.6.0",
+    "performance": 0.33,
+    "accessibility": 0.84,
     "bestPractices": 0.8,
-    "seo": 0.93,
-    "total": 292
+    "seo": 0.92,
+    "total": 289
   },
-  "firstContentfulPaint": 2440.758,
-  "speedIndex": 7595.511082942219,
-  "largestContentfulPaint": 4509.776,
-  "totalBlockingTime": 1340.9999999999982,
-  "cumulativeLayoutShift": 0.026416015625,
-  "timeToInteractive": 16955.756999999994,
-  "maxPotentialFirstInputDelay": 389,
-  "timeToFirstByte": 271.37,
+  "firstContentfulPaint": 2770.959,
+  "firstMeaningfulPaint": 3079.459,
+  "speedIndex": 7719.020679520555,
+  "largestContentfulPaint": 4669.838000000001,
+  "totalBlockingTime": 3453.9999999999995,
+  "cumulativeLayoutShift": 0.017151412963867185,
+  "timeToInteractive": 19520.019,
+  "maxPotentialFirstInputDelay": 1484,
+  "timeToFirstByte": 508.405,
   "weight": {
-    "summary": "110 requests • 2,024 KiB",
-    "total": 2072125,
-    "image": 153176,
+    "summary": "112 requests • 2,039 KiB",
+    "total": 2087905,
+    "image": 153124,
     "imageCount": 21,
-    "script": 1632240,
+    "script": 1644803,
     "scriptCount": 53,
-    "document": 49687,
-    "font": 38877,
+    "document": 49781,
+    "font": 38875,
     "fontCount": 2,
     "stylesheet": 52263,
     "stylesheetCount": 6,
-    "thirdParty": 2018268,
-    "thirdPartyCount": 105
+    "thirdParty": 2031277,
+    "thirdPartyCount": 107
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 16
   },
   "previousRanks": {
-    "hundos": 6,
-    "performance": 8,
+    "hundos": 11,
+    "performance": 11,
     "accessibility": 5,
-    "cumulative": 6
+    "cumulative": 11
   }
 }

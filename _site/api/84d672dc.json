@@ -1,46 +1,47 @@
 {
   "url": "https://clementcoffee.com/products/decaf-guatemala",
   "requestedUrl": "https://clementcoffee.com/products/decaf-guatemala",
-  "timestamp": 1636881757091,
+  "timestamp": 1636923634414,
   "ranks": {
-    "hundos": 9,
-    "performance": 9,
+    "hundos": 6,
+    "performance": 7,
     "accessibility": 9,
-    "cumulative": 9
+    "cumulative": 6
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.53,
-    "accessibility": 0.91,
+    "version": "8.6.0",
+    "performance": 0.56,
+    "accessibility": 0.9,
     "bestPractices": 0.93,
     "seo": 1,
-    "total": 337
+    "total": 339
   },
-  "firstContentfulPaint": 2307.4605,
-  "speedIndex": 3881.876670534497,
-  "largestContentfulPaint": 3501.249,
-  "totalBlockingTime": 1257.5,
-  "cumulativeLayoutShift": 0.006499210145738389,
-  "timeToInteractive": 11091.758999999998,
-  "maxPotentialFirstInputDelay": 402,
-  "timeToFirstByte": 268.394,
+  "firstContentfulPaint": 2189.799,
+  "firstMeaningfulPaint": 2227.799,
+  "speedIndex": 3625.9071383238625,
+  "largestContentfulPaint": 3470.182999999999,
+  "totalBlockingTime": 1221.1800000000014,
+  "cumulativeLayoutShift": 0.008733742766910128,
+  "timeToInteractive": 10905.067,
+  "maxPotentialFirstInputDelay": 447,
+  "timeToFirstByte": 266.925,
   "weight": {
-    "summary": "92 requests • 1,153 KiB",
-    "total": 1180654,
-    "image": 45980,
+    "summary": "93 requests • 1,154 KiB",
+    "total": 1181948,
+    "image": 46083,
     "imageCount": 18,
-    "script": 560911,
+    "script": 561215,
     "scriptCount": 36,
-    "document": 36648,
-    "font": 38875,
+    "document": 36492,
+    "font": 38874,
     "fontCount": 2,
-    "stylesheet": 21430,
+    "stylesheet": 20957,
     "stylesheetCount": 1,
-    "thirdParty": 1147130,
-    "thirdPartyCount": 88
+    "thirdParty": 1147535,
+    "thirdPartyCount": 89
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "axe": {
@@ -48,9 +49,9 @@
     "violations": 9
   },
   "previousRanks": {
-    "hundos": 6,
-    "performance": 7,
+    "hundos": 9,
+    "performance": 9,
     "accessibility": 9,
-    "cumulative": 6
+    "cumulative": 9
   }
 }

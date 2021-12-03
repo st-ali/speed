@@ -59,10 +59,10 @@
     ],
     "vertical": "clement"
   },
-  "https://clementcoffee.com/pages/wholesale": {
-    "requestedUrl": "https://clementcoffee.com/pages/wholesale",
-    "url": "https://clementcoffee.com/pages/wholesale",
-    "hash": "29fb88cd",
+  "https://clementcoffee.com/collections/blends": {
+    "requestedUrl": "https://clementcoffee.com/collections/blends",
+    "url": "https://clementcoffee.com/collections/blends",
+    "hash": "3a8ba1f8",
     "categories": [
       "clement",
       "sal",
@@ -71,10 +71,10 @@
     ],
     "vertical": "clement"
   },
-  "https://clementcoffee.com/collections/blends": {
-    "requestedUrl": "https://clementcoffee.com/collections/blends",
-    "url": "https://clementcoffee.com/collections/blends",
-    "hash": "3a8ba1f8",
+  "https://clementcoffee.com/pages/wholesale": {
+    "requestedUrl": "https://clementcoffee.com/pages/wholesale",
+    "url": "https://clementcoffee.com/pages/wholesale",
+    "hash": "29fb88cd",
     "categories": [
       "clement",
       "sal",
@@ -301,6 +301,18 @@
     "requestedUrl": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
     "url": "https://stali.com.au/collections/coffee/products/st-ali-wide-awake",
     "hash": "afe770db",
+    "categories": [
+      "clement",
+      "sal",
+      "slab",
+      "stali"
+    ],
+    "vertical": "clement"
+  },
+  "https://www.coffeeandcrypto.co/": {
+    "requestedUrl": "https://www.coffeeandcrypto.co/",
+    "url": "https://www.coffeeandcrypto.co/",
+    "hash": "b45a35a4",
     "categories": [
       "clement",
       "sal",

@@ -1,43 +1,44 @@
 {
   "url": "https://stali.com.au/collections/coffee",
   "requestedUrl": "https://stali.com.au/collections/coffee",
-  "timestamp": 1636886599453,
+  "timestamp": 1636924941346,
   "ranks": {
-    "hundos": 3,
-    "performance": 6,
+    "hundos": 8,
+    "performance": 10,
     "accessibility": 1,
-    "cumulative": 3
+    "cumulative": 8
   },
   "lighthouse": {
-    "version": "6.5.0",
-    "performance": 0.37,
-    "accessibility": 0.89,
+    "version": "8.6.0",
+    "performance": 0.26,
+    "accessibility": 0.87,
     "bestPractices": 0.8,
-    "seo": 0.93,
-    "total": 299
+    "seo": 0.92,
+    "total": 285
   },
-  "firstContentfulPaint": 2249.094,
-  "speedIndex": 7366.499648397571,
-  "largestContentfulPaint": 4218.386,
-  "totalBlockingTime": 1187.9999999999982,
-  "cumulativeLayoutShift": 0.0264404296875,
-  "timeToInteractive": 17713.593999999997,
-  "maxPotentialFirstInputDelay": 357,
-  "timeToFirstByte": 609.746,
+  "firstContentfulPaint": 4414.944,
+  "firstMeaningfulPaint": 5143.6720000000005,
+  "speedIndex": 8834.77827920108,
+  "largestContentfulPaint": 8221.39,
+  "totalBlockingTime": 1209.3070000000016,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 18453.448000000004,
+  "maxPotentialFirstInputDelay": 797.0000000000005,
+  "timeToFirstByte": 485.226,
   "weight": {
-    "summary": "103 requests • 2,005 KiB",
-    "total": 2053118,
-    "image": 184706,
+    "summary": "102 requests • 2,017 KiB",
+    "total": 2065765,
+    "image": 184720,
     "imageCount": 20,
-    "script": 1575970,
+    "script": 1588346,
     "scriptCount": 50,
-    "document": 41356,
+    "document": 41529,
     "font": 59789,
     "fontCount": 3,
-    "stylesheet": 50364,
+    "stylesheet": 50361,
     "stylesheetCount": 5,
-    "thirdParty": 2012930,
-    "thirdPartyCount": 101
+    "thirdParty": 2024913,
+    "thirdPartyCount": 100
   },
   "run": {
     "number": 1,
@@ -48,9 +49,9 @@
     "violations": 13
   },
   "previousRanks": {
-    "hundos": 3,
-    "performance": 7,
+    "hundos": 1,
+    "performance": 2,
     "accessibility": 1,
-    "cumulative": 3
+    "cumulative": 1
   }
 }

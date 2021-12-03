@@ -1,0 +1,51 @@
+{
+  "url": "https://stali.com.au/collections/coffee",
+  "requestedUrl": "https://stali.com.au/collections/coffee",
+  "timestamp": 1636896080978,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.45,
+    "accessibility": 0.87,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 305
+  },
+  "firstContentfulPaint": 2517.39,
+  "firstMeaningfulPaint": 2531.39,
+  "speedIndex": 6783.262342290198,
+  "largestContentfulPaint": 4174.5585,
+  "totalBlockingTime": 992.2540000000045,
+  "cumulativeLayoutShift": 0.02564697265625,
+  "timeToInteractive": 19607.436,
+  "maxPotentialFirstInputDelay": 306,
+  "timeToFirstByte": 257.624,
+  "weight": {
+    "summary": "101 requests • 2,005 KiB",
+    "total": 2053582,
+    "image": 185045,
+    "imageCount": 20,
+    "script": 1576035,
+    "scriptCount": 50,
+    "document": 41465,
+    "font": 59793,
+    "fontCount": 3,
+    "stylesheet": 50362,
+    "stylesheetCount": 5,
+    "thirdParty": 2012796,
+    "thirdPartyCount": 99
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1031,
+    "violations": 13
+  }
+}

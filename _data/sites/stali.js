@@ -2,7 +2,7 @@ module.exports = {
 	name: "ST ALi", // optional, falls back to object key
 	description: "stali.com.au",
 	options: {
-		frequency: 30 * 1, // (in minutes), 6 hours
+		frequency: 60 * 6, // (in minutes), 6 hours
 	},
 	urls: [
 		"https://stali.com.au",
@@ -14,7 +14,7 @@ module.exports = {
 		"https://stali.com.au/collections/coffee/products/st-ali-orthodox",
 		"https://stali.com.au/pages/st-ali-south-melbourne",
 		"https://stali.com.au/pages/contact",
-		//"https://stali.com.au/pages/about",
+		"https://stali.com.au/pages/about",
 		"https://stali.com.au/cart",
 	]
 };

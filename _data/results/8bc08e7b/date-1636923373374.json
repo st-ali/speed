@@ -1,0 +1,51 @@
+{
+  "url": "https://www.salvatoremalatesta.com.au/photos",
+  "requestedUrl": "https://www.salvatoremalatesta.com.au/photos",
+  "timestamp": 1636924071361,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 0.97,
+    "total": 364
+  },
+  "firstContentfulPaint": 1717.545,
+  "firstMeaningfulPaint": 1823.045,
+  "speedIndex": 1883.9792085448553,
+  "largestContentfulPaint": 2078.545,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.38236643430921763,
+  "timeToInteractive": 2448.545,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 32.52999999999997,
+  "weight": {
+    "summary": "19 requests • 568 KiB",
+    "total": 581450,
+    "image": 498887,
+    "imageCount": 10,
+    "script": 43360,
+    "scriptCount": 6,
+    "document": 2788,
+    "font": 17491,
+    "fontCount": 1,
+    "stylesheet": 18924,
+    "stylesheetCount": 1,
+    "thirdParty": 578662,
+    "thirdPartyCount": 18
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 89,
+    "violations": 7
+  }
+}

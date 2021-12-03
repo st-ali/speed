@@ -1,0 +1,51 @@
+{
+  "url": "https://stali.com.au/collections/the-grocer",
+  "requestedUrl": "https://stali.com.au/collections/the-grocer",
+  "timestamp": 1636924963367,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 9,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.6.0",
+    "performance": 0.34,
+    "accessibility": 0.82,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 289
+  },
+  "firstContentfulPaint": 2416.3520000000003,
+  "firstMeaningfulPaint": 2426.8520000000003,
+  "speedIndex": 8215.825710380177,
+  "largestContentfulPaint": 6843.328000000001,
+  "totalBlockingTime": 1063.5,
+  "cumulativeLayoutShift": 0.02320249557495117,
+  "timeToInteractive": 19971.100000000006,
+  "maxPotentialFirstInputDelay": 329,
+  "timeToFirstByte": 522.049,
+  "weight": {
+    "summary": "99 requests • 2,443 KiB",
+    "total": 2501651,
+    "image": 618678,
+    "imageCount": 20,
+    "script": 1588161,
+    "scriptCount": 50,
+    "document": 43968,
+    "font": 59791,
+    "fontCount": 3,
+    "stylesheet": 50361,
+    "stylesheetCount": 5,
+    "thirdParty": 2458363,
+    "thirdPartyCount": 97
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1550,
+    "violations": 21
+  }
+}
